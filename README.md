@@ -254,7 +254,7 @@ With ~100,000 sampled transactions:
 - API deployment (FastAPI)
 - Real-time scoring
 - Personalized recommendations per user
-```
+
 ## 📥 Dataset Access
 
 The dataset used in this project is the **Instacart Market Basket Analysis Dataset**.
